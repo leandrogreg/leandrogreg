@@ -1,11 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Roberta+Fontes;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0303b5&size=20&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+Chamo+Leandro+Gregório;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Desenvolvimento Web com foco em Full-Stack
+- 💻 Formado em Sistemas de Informação
 - 🚀 Aprendendo : React , Mysql
-- 😊 Pronomes : Ela/Dela
-- ❤️ Gostos : Animes, Doramas e Jogos
-- ✨ Curiosidades : Me considero autodidata, atualmente estudando para melhorar meu inglês e iniciando em Espanhol 
+- ❤️ Gostos : Apaixonado por café ☕
+- ✨ Curiosidades : Me considero autodidata 
 
 <br>
   
