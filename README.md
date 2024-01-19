@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01c4e7&size=20&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+Chamo+Leandro+Gregório;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=01C4E7&random=false&width=1000&lines=%3CHello+world%2F%3E+Me+chamo+Leandro+Greg%C3%B3rio.;Sejam+bem+vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 - 💻 Formado em Sistemas de Informação
 - 🚀 Aprendendo : React , Mysql
@@ -9,8 +9,8 @@
   
 
   <div align="center">  
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrogreg&theme=algolia&show_icons=true&hide_border=false&count_private=true&locale=pt-br" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogreg&theme=algolia&show_icons=true&hide_border=false&layout=compact&locale=pt-br"/>
+     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrogreg&theme=algolia&show_icons=true&locale=pt-br&hide_border=false&count_private=true" />
+     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogreg&theme=algolia&show_icons=true&hide_border=false&locale=pt-br&layout=compact"/>
   </div>
 
 <div style="display: inline_block"><br>
