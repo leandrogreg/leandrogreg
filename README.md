@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0303b5&size=20&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+Chamo+Leandro+Gregório;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01c4e7&size=20&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+Chamo+Leandro+Gregório;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 - 💻 Formado em Sistemas de Informação
 - 🚀 Aprendendo : React , Mysql
@@ -9,8 +9,8 @@
   
 
   <div align="center">  
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=betafontes&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betafontes&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrogreg&theme=algolia&show_icons=true&hide_border=false&count_private=true&locale=pt-br" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrogreg&theme=algolia&show_icons=true&hide_border=false&layout=compact&locale=pt-br"/>
   </div>
 
 <div style="display: inline_block"><br>
@@ -30,7 +30,7 @@
  
 <div> 
    
-  <a href="https://codepen.io/betafontes" target="_blank"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/leandrogreg" target="_blank"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kiemora20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/kiemora#1098" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href ="mailto:robertafontesds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -39,7 +39,7 @@
 
 
    
-  ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leandrogreg/leandrogreg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
